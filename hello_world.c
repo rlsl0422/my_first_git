@@ -8,10 +8,7 @@ int main(){
   }
   for (int i = 0; i < 10; i++)
   {
-    if (i%2 != 1)
-    {
-      printf("%d\n",i);
-    }
+    if (i%2 != 1) printf("%d\n",i);
   }
   printf("end");
   return 0;
