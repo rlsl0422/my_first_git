@@ -12,7 +12,6 @@ int main(){
     {
       printf("%d\n",i);
     }
-    
   }
   printf("end");
   return 0;
