@@ -2,6 +2,7 @@
 
 int main(){
   printf("hello_world\n");
+  printf("hellllllllllllllllllllllo!!!\n");
   for (int i = 0; i < 10; i++)
   {
     printf("%d\n",i*10);
